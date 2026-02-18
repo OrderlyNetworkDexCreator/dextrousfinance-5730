@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "Dextrous.finance",
+  "VITE_ORDERLY_BROKER_NAME": "Dextrous.Finance",
   "VITE_BROKER_EOA_ADDRESS": "0x918faab5c4fb561d27581fb6aa1c8751af5b25b4",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "efc8d209581d79ca51b90f6166c66459",
-  "VITE_APP_NAME": "Dextrous.finance",
+  "VITE_APP_NAME": "Dextrous.Finance",
   "VITE_APP_DESCRIPTION": "The fully on-chain decentralized exchange for professional trading with deep liquidity, fast execution, and full self-custody.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",

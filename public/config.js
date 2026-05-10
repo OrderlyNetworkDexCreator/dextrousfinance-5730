@@ -8,7 +8,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "cmou6j2i200520cl5c78dcw5n",
-  "VITE_PRIVY_LOGIN_METHODS": "email,passkey,twitter,google",
+  "VITE_PRIVY_LOGIN_METHODS": "passkey,twitter,google",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
